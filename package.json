@@ -1,0 +1,24 @@
+{
+  "name": "front-end-28bit-oop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AugisKo/front-end-28bit-oop.git"
+  },
+  "keywords": [],
+  "author": "Eugenijus Komas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AugisKo/front-end-28bit-oop/issues"
+  },
+  "homepage": "https://github.com/AugisKo/front-end-28bit-oop#readme",
+  "dependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
