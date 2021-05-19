@@ -4,6 +4,12 @@ class Dog {
         this.furColor = fur;
         this.legsCount = 4;
         this.hasTale = true;
+        this.voiceCount = 0;
+    }
+//metodas
+    voice() {
+        this.voiceCount++;
+        console.log(`${this.name}:'Au, au!! (${this.voiceCount})`);
     }
 }
 

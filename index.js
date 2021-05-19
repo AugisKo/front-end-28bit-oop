@@ -6,3 +6,9 @@ const spaikas = new Dog('Spike', 'white');
 console.log(rexas.furColor);
 console.log(spaikas.furColor);
 
+rexas.voice();;
+rexas.voice();
+spaikas.voice();
+rexas.voice();
+spaikas.voice();
+spaikas.voice();
