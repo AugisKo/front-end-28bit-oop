@@ -5,14 +5,13 @@ class Transport {
         this.seatCount = seatCount;
         this.wheelCount = wheelCount;
         this.engineIsOn = false;
-        this.engineIsOff = true;
     }
 
     turnOnEngine() {
         this.engineIsOn = true;
     }
     turnOffEngine() {
-        this.engineIsOff = false;
+        this.engineIsOn = false;
     }
         
 }
